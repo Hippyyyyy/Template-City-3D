@@ -1,0 +1,375 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.45f1 (a13dfa44d684) revision 10567162'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16205 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\UNITYLN\2022.3.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Project Unity/Template-City-3D-main
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50088
+Successfully changed project path to: D:/Project Unity/Template-City-3D-main
+D:/Project Unity/Template-City-3D-main
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21220]  Target information:
+
+Player connection [21220]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1142322260 [EditorId] 1142322260 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21220]  * "[IP] 192.168.213.1 [Port] 0 [Flags] 2 [Guid] 1142322260 [EditorId] 1142322260 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21220]  * "[IP] 192.168.241.2 [Port] 0 [Flags] 2 [Guid] 1142322260 [EditorId] 1142322260 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21220]  * "[IP] 192.168.0.196 [Port] 0 [Flags] 2 [Guid] 1142322260 [EditorId] 1142322260 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21220] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [21220] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 8.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.45f1 (a13dfa44d684)
+[Subsystems] Discovering subsystems at path D:/UNITYLN/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Project Unity/Template-City-3D-main/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   NVIDIA
+    VRAM:     3935 MB
+    Driver:   32.0.15.5599
+Initialize mono
+Mono path[0] = 'D:/UNITYLN/2022.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UNITYLN/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/UNITYLN/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UNITYLN/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/UNITYLN/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005742 seconds.
+- Loaded All Assemblies, in  0.446 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 253 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.615 seconds
+Domain Reload Profiling: 1061ms
+	BeginReloadAssembly (140ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (191ms)
+		LoadAssemblies (140ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (188ms)
+			TypeCache.Refresh (187ms)
+				TypeCache.ScanAssembly (170ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (615ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (557ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (336ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (147ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.748 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.673 seconds
+Domain Reload Profiling: 1420ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (476ms)
+		LoadAssemblies (343ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (244ms)
+			TypeCache.Refresh (218ms)
+				TypeCache.ScanAssembly (194ms)
+			ScanForSourceGeneratedMonoScriptInfo (19ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (673ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (503ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (63ms)
+			ProcessInitializeOnLoadAttributes (395ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 4.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3465 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (95.7 KB). Loaded Objects now: 3940.
+Memory consumption went from 133.6 MB to 133.5 MB.
+Total: 3.312100 ms (FindLiveObjects: 0.273200 ms CreateObjectMapping: 0.311600 ms MarkObjects: 2.609500 ms  DeleteObjects: 0.116600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 317.553058 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-16_comp_dir.png
+  artifactKey: Guid(1d3fa9c8a622bfb45aa25acb692a1333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-16_comp_dir.png using Guid(1d3fa9c8a622bfb45aa25acb692a1333) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd9269b5f06502731880d27e94a4dd38b') in 0.060504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-17_comp_dir.png
+  artifactKey: Guid(f601f4c182d7b6c408a32c1051341804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-17_comp_dir.png using Guid(f601f4c182d7b6c408a32c1051341804) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f4a15152246cf5dcef7f1c1b095f0a82') in 0.021636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sample City/Scene/Day/OcclusionCullingData.asset
+  artifactKey: Guid(1fa8130b62ff35d48a65d36df2189cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/OcclusionCullingData.asset using Guid(1fa8130b62ff35d48a65d36df2189cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7072fadb5154f5ec9c4795cd1d5d8681') in 0.053548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.439208 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-11_comp_light.exr
+  artifactKey: Guid(01f6df21b605c6d44ae3166645f9866e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-11_comp_light.exr using Guid(01f6df21b605c6d44ae3166645f9866e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bb0c2b66d7dfaaffea50e1fc54438029') in 0.048973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.023275 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-7_comp_light.exr
+  artifactKey: Guid(5c2d28a65c741b54cac242cb16ddfa4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-7_comp_light.exr using Guid(5c2d28a65c741b54cac242cb16ddfa4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8c5a56609c4467cecfede4fa278e06f2') in 0.018351 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-10_comp_light.exr
+  artifactKey: Guid(3ea5d223288696549b8080d27d387f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-10_comp_light.exr using Guid(3ea5d223288696549b8080d27d387f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cea3665d96c2b0e8810bf905479a9ace') in 0.015709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-11_comp_dir.png
+  artifactKey: Guid(75f7697bff7bc58478537cc1e667cfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-11_comp_dir.png using Guid(75f7697bff7bc58478537cc1e667cfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f02f8efa84c74c9c245e646640e577c0') in 0.015001 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.077001 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-5_comp_light.exr
+  artifactKey: Guid(1b3b01a867ab2864b87c6f8f5c6bef9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-5_comp_light.exr using Guid(1b3b01a867ab2864b87c6f8f5c6bef9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ee2a9e8683517775df5ffa6e3ce92e92') in 0.016244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.048235 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-3_comp_light.exr
+  artifactKey: Guid(8ade722d651ff9d429ff3877b05494c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-3_comp_light.exr using Guid(8ade722d651ff9d429ff3877b05494c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '88cfb320c83118af2f921957b040ad19') in 0.019005 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-5_comp_dir.png
+  artifactKey: Guid(8c6235e7339dd6348821d4f244f02795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-5_comp_dir.png using Guid(8c6235e7339dd6348821d4f244f02795) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1e22a564d4889dc7b573997841d62469') in 0.021377 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.216684 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-1_comp_light.exr
+  artifactKey: Guid(690ba588996133641be4def75dd6d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-1_comp_light.exr using Guid(690ba588996133641be4def75dd6d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7a06e02b720150c7e185e1fd4c07ecad') in 0.010898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-3_comp_dir.png
+  artifactKey: Guid(6e40121ad8ecf77428135b638f013b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-3_comp_dir.png using Guid(6e40121ad8ecf77428135b638f013b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2ee7b41e3f9f233f28005e0ee9ad7434') in 0.007919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.033085 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-0_comp_dir.png
+  artifactKey: Guid(1963484fa7701b84cb81d528c366627a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-0_comp_dir.png using Guid(1963484fa7701b84cb81d528c366627a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '052170bde029519eccb54efc8ef33135') in 0.019806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5744.303129 seconds.
+  path: Assets/Sample City/Scene/Day/LightingData.asset
+  artifactKey: Guid(70f2faa142e1f7c4b82fbd478dbb0996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/LightingData.asset using Guid(70f2faa142e1f7c4b82fbd478dbb0996) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8c520b102dab6d3f17a683f3f10e4baf') in 0.115718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-3_comp_dir.png
+  artifactKey: Guid(6e40121ad8ecf77428135b638f013b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-3_comp_dir.png using Guid(6e40121ad8ecf77428135b638f013b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a9f8c1d90e974014e1287480ec42f4fb') in 0.252406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-1_comp_dir.png
+  artifactKey: Guid(562a80e0f0fd07c48b82a07c916df4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-1_comp_dir.png using Guid(562a80e0f0fd07c48b82a07c916df4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8fe9bb2814ee6beabdb881a6f0fd9d09') in 0.191236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.004449 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-1_comp_light.exr
+  artifactKey: Guid(690ba588996133641be4def75dd6d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-1_comp_light.exr using Guid(690ba588996133641be4def75dd6d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '656de820eea30ffc1181e80ae93b0350') in 0.044570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Sample City/Scene/Day/Lightmap-2_comp_light.exr
+  artifactKey: Guid(4b35bd06a40b8b74f9f788fe28edde78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample City/Scene/Day/Lightmap-2_comp_light.exr using Guid(4b35bd06a40b8b74f9f788fe28edde78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5b20f6dced432c859dec3793980bf4bd') in 0.025544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
